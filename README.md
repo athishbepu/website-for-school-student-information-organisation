@@ -39,5 +39,3 @@ This is a website that i have build for the school i had studied for organising 
         area_interested1 TEXT,
         area_interested2 TEXT
         ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
-
-```
